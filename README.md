@@ -1,1 +1,1 @@
-![hungry](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/hungry.gif)
+![sleep](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/sleep.gif)
