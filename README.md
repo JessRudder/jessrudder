@@ -1,1 +1,1 @@
-![idle](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/idle.gif)
+![eat](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/eat.gif)
