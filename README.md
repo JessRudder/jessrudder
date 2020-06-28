@@ -1,1 +1,1 @@
-Boredst. Gimme one does!
+THEY CHASE! IS AFFER ME! GWOOOOO!
