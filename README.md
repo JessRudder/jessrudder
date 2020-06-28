@@ -1,3 +1,1 @@
-![eat](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/eat.gif). 
-  
-Snarfled your scarfled. None leff for you.
+![idle](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/idle.gif)
