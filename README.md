@@ -1,1 +1,1 @@
-Shhh! No response. Critical restuns.
+Boredst. Gimme one does!
