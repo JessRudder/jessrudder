@@ -34,7 +34,7 @@
     </td>
     <td>
       <div align="right">
-        <img src="https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/play.gif" alt="Snarfblatt playing with a ball" height="350px" align="right">
+        <img src="https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/play.gif" alt="Snarfblatt playing with a ball" height="325px" align="right">
       </div>
     </td>
   </tr>
