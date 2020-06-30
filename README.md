@@ -21,8 +21,8 @@ I loves play er gammmmmez!
 <a href="https://feedimal.herokuapp.com/status">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/status.png" />
 </a>
-<a href="https://feedimal.herokuapp.com/feed">
-  <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/eat.png" />
+<a href="https://feedimal.herokuapp.com/eat">
+  <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/feed.png" />
 </a>
 <a href="https://feedimal.herokuapp.com/play">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/play.png" />
