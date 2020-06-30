@@ -14,10 +14,6 @@
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/battery-empty.svg" height="40px"/>
 </p>
 <br>
-<p>
-  <img src="https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/play.gif" alt="Snarfblatt playing with a ball" height="350px" align="right">
-</p>
-
 
 # Important message from Snarfblatt:
 I loves play er gammmmmez!
@@ -31,3 +27,10 @@ I loves play er gammmmmez!
 <a href="https://feedimal.herokuapp.com/play">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/play.png" />
 </a>
+
+
+<p>
+  <img src="https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/play.gif" alt="Snarfblatt playing with a ball" height="350px" align="right">
+</p>
+
+
