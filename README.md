@@ -1,1 +1,1 @@
-![play](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/play.gif)
+![eat](https://github.com/JessRudder/jessrudder/blob/master/snarfblatt/eat.gif)
