@@ -1,4 +1,4 @@
-<div display="inline-flex">
+<div display="inline-flex" width="300px">
   <div align="left">
     <p align="left">
       <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/play-full.svg" height="40px"/>
