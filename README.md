@@ -1,14 +1,14 @@
-<p align="right">
+<p align="left">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/play-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/play-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/play-empty.svg" height="40px"/>
 </p>
-<p align="right">
+<p align="left">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/hunger-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/hunger-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/hunger-empty.svg" height="40px"/>
 </p>
-<p align="right">
+<p align="left">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/battery-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/battery-full.svg" height="40px"/>
   <img src="https://github.com/JessRudder/jessrudder/blob/master/icons/battery-empty.svg" height="40px"/>
@@ -22,7 +22,7 @@ I loves play er gammmmmez!
   <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/status.png" />
 </a>
 <a href="https://feedimal.herokuapp.com/feed">
-  <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/feed.png" />
+  <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/eat.png" />
 </a>
 <a href="https://feedimal.herokuapp.com/play">
   <img src="https://github.com/JessRudder/jessrudder/blob/master/buttons/play.png" />
