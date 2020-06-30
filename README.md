@@ -15,7 +15,7 @@
 </p>
 <br>
 
-# Important message from Snarfblatt:
+### Important message from Snarfblatt:
 I loves play er gammmmmez!
 
 <a href="https://feedimal.herokuapp.com/status">
